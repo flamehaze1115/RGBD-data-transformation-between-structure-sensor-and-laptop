@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\install\opencv\install\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\install\opencv\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\install\opencv\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\install\opencv\install\include\opencv2/imgproc.hpp(595): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Source.cpp(72): warning C4102: 'cv': unreferenced label
+Source.cpp(28): warning C4101: 'sys_time': unreferenced local variable
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  0 of 253 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\SERVER\x64\Release\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\SERVER\x64\Release\ConsoleApplication2.pdb (Full PDB)

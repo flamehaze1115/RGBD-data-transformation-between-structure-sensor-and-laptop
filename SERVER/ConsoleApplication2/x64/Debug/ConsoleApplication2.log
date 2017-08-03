@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\install\opencv\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\install\opencv\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\install\opencv\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\install\opencv\install\include\opencv2\imgproc.hpp(595): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\lenovo\desktop\server\consoleapplication2\source.cpp(95): warning C4102: 'cv': unreferenced label
+c:\users\lenovo\desktop\server\consoleapplication2\source.cpp(41): warning C4101: 'sys_time': unreferenced local variable
+c:\users\lenovo\desktop\server\consoleapplication2\source.cpp(103): warning C4101: 'recvBuf': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\SERVER\x64\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\SERVER\x64\Debug\ConsoleApplication2.pdb (Full PDB)
