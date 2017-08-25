@@ -1377,7 +1377,7 @@ const uint16_t maxShiftValue = 2048;
         {
         if(depthFrame.shiftData[depindex] == 2047)
             depdata[depindex]=0;
-        else depdata[depindex]=depthFrame.shiftData[depindex];
+        else depdata[depindex]=depthFrame.depthInMillimeters[depindex];
         }
         
         
